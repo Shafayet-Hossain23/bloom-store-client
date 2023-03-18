@@ -1,0 +1,77 @@
+.editLocation {
+    border: 1px solid;
+
+    height: auto;
+    padding-bottom: 5px;
+
+
+}
+
+.editFirstTable table {
+    width: 300px;
+    height: 100px
+}
+
+.tableHead {
+    border-left: 1px solid;
+    border-bottom: 1px solid;
+
+    /* padding-left: 10px; */
+
+
+
+}
+
+.tableData {
+    border-left: 1px solid;
+    border-bottom: 1px solid;
+
+
+}
+
+.tableCss {
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+    border-right: 1px solid;
+}
+
+.mainTable table {
+    width: 100%;
+    /* height: 400px; */
+
+}
+
+/* .secondTable table {
+    width: 100%;
+
+
+} */
+
+
+
+.styleCss {
+    font-weight: 450;
+}
+
+.tableBorder-2 {
+    border: 1px solid;
+}
+
+.tableBorder-1 {
+    border-bottom: 1px solid;
+    border-left: 1px solid;
+
+}
+
+.table-1 {
+    border-top: 1px solid;
+    /* border-bottom: 1px solid; */
+    border-right: 1px solid;
+}
+
+@media only screen and (max-width: 600px) {
+    .mainTable table {
+        width: 100%;
+        /* height: 100px */
+    }
+}
